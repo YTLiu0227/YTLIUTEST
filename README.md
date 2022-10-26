@@ -1,1 +1,1 @@
-# YTLIUTEST
+# YTLIUTEST lockin amplifier
